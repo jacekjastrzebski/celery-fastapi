@@ -28,9 +28,27 @@ def run_task(payload = Body(...)):
 @app.get("/tasks/{task_id}")
 def get_status(task_id):
     task_result = AsyncResult(task_id)
+    # print("\n", "------------------------")
+    # print(task_result.info, flush=True)
+    # print(task_result.result)
+    # print("\n", "------------------------")
+    
+    if task_result.status == "SUCCESS":
+        task_result_result = task_result.result
+    elif task_result.status == "PROGRESS":
+        task_result_result = task_result.result.get("counter")  
+    elif task_result.status == "PENDING":
+        task_result_result = "pending..."
+    else:
+        task_result_result = ""
+        
+        print("-------------------")
+        print(task_result.result)
+        print("--------------------")
+        
     result = {
         "task_id": task_id,
         "task_status": task_result.status,
-        "task_result": task_result.result
+        "task_result": task_result_result,
     }
     return JSONResponse(result)

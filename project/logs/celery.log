@@ -1,0 +1,901 @@
+[2023-06-02 11:34:46,483: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 11:34:46,486: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 11:34:47,491: INFO/MainProcess] mingle: all alone
+[2023-06-02 11:34:47,496: INFO/MainProcess] celery@5f02baf10908 ready.
+[2023-06-02 11:34:51,507: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 11:35:11,100: INFO/MainProcess] Task create_task[f8772e2f-c18c-4872-8d8c-05995e8c579e] received
+[2023-06-02 11:35:11,103: INFO/ForkPoolWorker-7] Task create_task[f8772e2f-c18c-4872-8d8c-05995e8c579e] succeeded in 0.0016694470000402362s: True
+[2023-06-02 11:35:43,785: INFO/MainProcess] Task create_task[080049e8-cab2-4015-9656-57fb653cc03e] received
+[2023-06-02 11:36:13,786: INFO/ForkPoolWorker-7] Task create_task[080049e8-cab2-4015-9656-57fb653cc03e] succeeded in 30.00064139899996s: True
+[2023-06-02 11:36:56,819: INFO/MainProcess] Task create_task[d7905e6d-94d6-4ac1-8108-e028a544d40c] received
+[2023-06-02 11:37:06,820: INFO/ForkPoolWorker-7] Task create_task[d7905e6d-94d6-4ac1-8108-e028a544d40c] succeeded in 10.000552212999992s: True
+[2023-06-02 11:37:15,394: INFO/MainProcess] Task create_task[dfcf95ac-bf2e-45d9-b87c-481cae85e019] received
+[2023-06-02 11:37:19,242: INFO/MainProcess] Task create_task[804f14bc-85e9-48d2-b292-5ba3b8428817] received
+[2023-06-02 11:37:29,244: INFO/ForkPoolWorker-8] Task create_task[804f14bc-85e9-48d2-b292-5ba3b8428817] succeeded in 10.00172248299998s: True
+[2023-06-02 11:37:31,888: INFO/MainProcess] Task create_task[ff02ce52-ec2d-4eb9-ab62-f089ab823972] received
+[2023-06-02 11:37:35,396: INFO/ForkPoolWorker-7] Task create_task[dfcf95ac-bf2e-45d9-b87c-481cae85e019] succeeded in 20.000627526000017s: True
+[2023-06-02 11:37:51,890: INFO/ForkPoolWorker-8] Task create_task[ff02ce52-ec2d-4eb9-ab62-f089ab823972] succeeded in 20.00067230400009s: True
+[2023-06-02 11:44:44,733: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 11:44:44,734: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 11:44:45,739: INFO/MainProcess] mingle: all alone
+[2023-06-02 11:44:45,743: INFO/MainProcess] celery@5f02baf10908 ready.
+[2023-06-02 11:44:46,508: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 11:44:47,137: INFO/MainProcess] Task create_task[471b9f5e-1ebd-457d-aa51-a198c1368ddd] received
+[2023-06-02 11:44:47,139: INFO/ForkPoolWorker-7] Task create_task[471b9f5e-1ebd-457d-aa51-a198c1368ddd] succeeded in 0.0015176970000538859s: True
+[2023-06-02 13:12:54,416: INFO/MainProcess] Task create_task[f9cc7929-72b7-45d0-9722-a5170195a360] received
+[2023-06-02 13:13:04,417: INFO/ForkPoolWorker-7] Task create_task[f9cc7929-72b7-45d0-9722-a5170195a360] succeeded in 10.000677877999806s: True
+[2023-06-02 13:30:28,157: INFO/MainProcess] Task create_task[2264f659-305c-464e-94d7-81a928a86439] received
+[2023-06-02 13:30:38,159: INFO/ForkPoolWorker-7] Task create_task[2264f659-305c-464e-94d7-81a928a86439] succeeded in 10.000641951000034s: True
+[2023-06-02 13:31:17,891: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:31:17,892: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:31:18,896: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:31:18,901: INFO/MainProcess] celery@3a366b571753 ready.
+[2023-06-02 13:31:22,924: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:31:27,851: INFO/MainProcess] Task create_task[a77d2ea6-0e18-48ae-8e01-926b651a2427] received
+[2023-06-02 13:31:32,854: INFO/ForkPoolWorker-7] Task create_task[a77d2ea6-0e18-48ae-8e01-926b651a2427] succeeded in 5.001900374999423s: True
+[2023-06-02 13:50:53,593: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:50:53,594: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:50:54,599: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:50:54,605: INFO/MainProcess] celery@ef6743862a2d ready.
+[2023-06-02 13:50:58,625: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:50:59,285: INFO/MainProcess] Task create_task[ed745b1a-d818-4b65-b1ad-9e1351f6d914] received
+[2023-06-02 13:50:59,290: WARNING/ForkPoolWorker-7] --- Logging error ---
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7]   File "/usr/src/app/worker.py", line 17, in create_task
+    self.update(meta={"current": counter})
+    ^^^^^^^^^^^
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7] AttributeError: 'create_task' object has no attribute 'update'
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7] 
+During handling of the above exception, another exception occurred:
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:50:59,291: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-06-02 13:50:59,292: WARNING/ForkPoolWorker-7] Call stack:
+[2023-06-02 13:50:59,293: WARNING/ForkPoolWorker-7]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-06-02 13:50:59,293: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-06-02 13:50:59,293: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-06-02 13:50:59,294: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-06-02 13:50:59,295: WARNING/ForkPoolWorker-7] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@ef6743862a2d', 'id': 'ed745b1a-d818-4b65-b1ad-9e1351f6d914', 'name': 'create_task', 'exc': 'AttributeError("\'create_task\' object has no attribute \'update\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 17, in create_task\n    self.update(meta={"current": counter})\n    ^^^^^^^^^^^\nAttributeError: \'create_task\' object has no attribute \'update\'\n', 'args': '[1]', 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-06-02 13:51:53,913: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:51:53,914: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:51:54,918: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:51:54,924: INFO/MainProcess] celery@3eaca46fd026 ready.
+[2023-06-02 13:51:58,865: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:53:07,981: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:53:07,982: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:53:08,987: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:53:08,992: INFO/MainProcess] celery@9ccfe1f57d76 ready.
+[2023-06-02 13:53:13,046: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:53:32,451: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:53:32,453: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:53:33,458: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:53:33,464: INFO/MainProcess] celery@2c2e1e442015 ready.
+[2023-06-02 13:53:36,684: INFO/MainProcess] Task create_task[8b85d6c5-2418-4c47-9d35-6d90d380ac2a] received
+[2023-06-02 13:53:36,688: WARNING/ForkPoolWorker-7] --- Logging error ---
+[2023-06-02 13:53:36,688: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:53:36,688: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,688: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/src/app/worker.py", line 17, in create_task
+    self.update(meta={"current": counter})
+    ^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7] AttributeError: 'create_task' object has no attribute 'update'
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7] 
+During handling of the above exception, another exception occurred:
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-06-02 13:53:36,689: WARNING/ForkPoolWorker-7] Call stack:
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-06-02 13:53:36,691: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-06-02 13:53:36,692: WARNING/ForkPoolWorker-7] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@2c2e1e442015', 'id': '8b85d6c5-2418-4c47-9d35-6d90d380ac2a', 'name': 'create_task', 'exc': 'AttributeError("\'create_task\' object has no attribute \'update\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 17, in create_task\n    self.update(meta={"current": counter})\n    ^^^^^^^^^^^\nAttributeError: \'create_task\' object has no attribute \'update\'\n', 'args': '[1]', 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-06-02 13:53:37,551: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:55:23,927: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:55:23,929: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:55:24,935: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:55:24,940: INFO/MainProcess] celery@38b9374b12cd ready.
+[2023-06-02 13:55:26,905: INFO/MainProcess] Task create_task[3cbf8146-3542-4360-88da-983556d61586] received
+[2023-06-02 13:55:26,909: WARNING/ForkPoolWorker-7] --- Logging error ---
+[2023-06-02 13:55:26,909: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:55:26,909: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/src/app/worker.py", line 17, in create_task
+    self.update(meta={"current": counter})
+    ^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7] AttributeError: 'create_task' object has no attribute 'update'
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7] 
+During handling of the above exception, another exception occurred:
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-06-02 13:55:26,910: WARNING/ForkPoolWorker-7] Call stack:
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-06-02 13:55:26,912: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-06-02 13:55:26,913: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-06-02 13:55:26,914: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-06-02 13:55:26,914: WARNING/ForkPoolWorker-7] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@38b9374b12cd', 'id': '3cbf8146-3542-4360-88da-983556d61586', 'name': 'create_task', 'exc': 'AttributeError("\'create_task\' object has no attribute \'update\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 17, in create_task\n    self.update(meta={"current": counter})\n    ^^^^^^^^^^^\nAttributeError: \'create_task\' object has no attribute \'update\'\n', 'args': '[1]', 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-06-02 13:55:28,928: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:56:10,973: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:56:10,974: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:56:11,979: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:56:11,984: INFO/MainProcess] celery@25b8ec21a29a ready.
+[2023-06-02 13:56:16,052: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:56:16,994: INFO/MainProcess] Task create_task[454e27bf-b722-44ee-9f5e-0387cc267477] received
+[2023-06-02 13:56:16,999: WARNING/ForkPoolWorker-7] --- Logging error ---
+[2023-06-02 13:56:16,999: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:56:16,999: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/src/app/worker.py", line 17, in create_task
+    self.update(meta={"current": counter})
+    ^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7] AttributeError: 'create_task' object has no attribute 'update'
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7] 
+During handling of the above exception, another exception occurred:
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,000: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,001: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-06-02 13:56:17,001: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,001: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-06-02 13:56:17,001: WARNING/ForkPoolWorker-7] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-06-02 13:56:17,001: WARNING/ForkPoolWorker-7] Call stack:
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-06-02 13:56:17,002: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-06-02 13:56:17,003: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-06-02 13:56:17,004: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-06-02 13:56:17,005: WARNING/ForkPoolWorker-7] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@25b8ec21a29a', 'id': '454e27bf-b722-44ee-9f5e-0387cc267477', 'name': 'create_task', 'exc': 'AttributeError("\'create_task\' object has no attribute \'update\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 17, in create_task\n    self.update(meta={"current": counter})\n    ^^^^^^^^^^^\nAttributeError: \'create_task\' object has no attribute \'update\'\n', 'args': '[2]', 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-06-02 13:57:22,515: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:57:22,518: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:57:23,522: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:57:23,527: INFO/MainProcess] celery@3742fbe2eb7a ready.
+[2023-06-02 13:57:27,722: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 13:57:43,656: INFO/MainProcess] Task create_task[e8cd4aac-fa5a-4c7c-9130-bcbdcd91d08c] received
+[2023-06-02 13:57:43,660: WARNING/ForkPoolWorker-7] --- Logging error ---
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7]   File "/usr/src/app/worker.py", line 17, in create_task
+    self.update(meta={"current": counter})
+    ^^^^^^^^^^^
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7] AttributeError: 'create_task' object has no attribute 'update'
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7] 
+During handling of the above exception, another exception occurred:
+[2023-06-02 13:57:43,661: WARNING/ForkPoolWorker-7] Traceback (most recent call last):
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-06-02 13:57:43,662: WARNING/ForkPoolWorker-7] Call stack:
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-06-02 13:57:43,664: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-06-02 13:57:43,665: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-06-02 13:57:43,666: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-06-02 13:57:43,666: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-06-02 13:57:43,666: WARNING/ForkPoolWorker-7]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-06-02 13:57:43,666: WARNING/ForkPoolWorker-7] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@3742fbe2eb7a', 'id': 'e8cd4aac-fa5a-4c7c-9130-bcbdcd91d08c', 'name': 'create_task', 'exc': 'AttributeError("\'create_task\' object has no attribute \'update\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 17, in create_task\n    self.update(meta={"current": counter})\n    ^^^^^^^^^^^\nAttributeError: \'create_task\' object has no attribute \'update\'\n', 'args': '[1]', 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-06-02 13:59:53,861: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 13:59:53,862: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 13:59:54,868: INFO/MainProcess] mingle: all alone
+[2023-06-02 13:59:54,873: INFO/MainProcess] celery@d85bcf3f77ce ready.
+[2023-06-02 13:59:59,121: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:00:01,548: INFO/MainProcess] Task create_task[1623ca17-eca3-410c-9b30-8e2a36a5795d] received
+[2023-06-02 14:00:06,552: INFO/ForkPoolWorker-7] Task create_task[1623ca17-eca3-410c-9b30-8e2a36a5795d] succeeded in 5.002844521999577s: True
+[2023-06-02 14:01:54,565: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:01:54,566: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:01:55,571: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:01:55,577: INFO/MainProcess] celery@66ed5b6a619d ready.
+[2023-06-02 14:01:59,638: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:02:03,374: INFO/MainProcess] Task create_task[b037c101-6cea-4fd8-b5ed-19fb5f65afd1] received
+[2023-06-02 14:02:08,378: INFO/ForkPoolWorker-7] Task create_task[b037c101-6cea-4fd8-b5ed-19fb5f65afd1] succeeded in 5.003009491998455s: True
+[2023-06-02 14:03:21,692: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:03:21,694: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:03:22,700: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:03:22,706: INFO/MainProcess] celery@9a4cf675b5a9 ready.
+[2023-06-02 14:03:26,644: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:03:47,608: INFO/MainProcess] Task create_task[f0016fe9-b7be-4087-a384-03b5ba5887a4] received
+[2023-06-02 14:03:52,612: INFO/ForkPoolWorker-7] Task create_task[f0016fe9-b7be-4087-a384-03b5ba5887a4] succeeded in 5.003093150000495s: True
+[2023-06-02 14:09:15,219: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:09:15,220: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:09:16,225: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:09:16,230: INFO/MainProcess] celery@4ce2edc51f36 ready.
+[2023-06-02 14:09:20,231: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:12:49,350: INFO/MainProcess] Task create_task[708213a7-df86-4aad-af49-e3f6cfb7df9c] received
+[2023-06-02 14:12:54,354: INFO/ForkPoolWorker-7] Task create_task[708213a7-df86-4aad-af49-e3f6cfb7df9c] succeeded in 5.002914005999628s: True
+[2023-06-02 14:13:37,369: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:13:37,370: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:13:38,375: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:13:38,393: INFO/MainProcess] celery@32c00f1e335e ready.
+[2023-06-02 14:13:42,543: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:13:45,231: INFO/MainProcess] Task create_task[57e99df6-6536-4a53-b8c6-e88dd9c09e99] received
+[2023-06-02 14:13:50,236: INFO/ForkPoolWorker-7] Task create_task[57e99df6-6536-4a53-b8c6-e88dd9c09e99] succeeded in 5.003207170999303s: True
+[2023-06-02 14:16:21,901: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:16:21,903: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:16:22,908: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:16:22,912: INFO/MainProcess] celery@e6d15344404e ready.
+[2023-06-02 14:16:26,894: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:16:32,802: INFO/MainProcess] Task create_task[6e31a6e5-1330-43ce-be65-11953a3927ce] received
+[2023-06-02 14:16:37,806: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:16:37,806: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:16:37,806: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:16:37,806: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:16:37,807: INFO/ForkPoolWorker-7] Task create_task[6e31a6e5-1330-43ce-be65-11953a3927ce] succeeded in 5.003370038000867s: True
+[2023-06-02 14:18:38,252: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:18:38,254: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:18:39,258: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:18:39,264: INFO/MainProcess] celery@446162569cd3 ready.
+[2023-06-02 14:18:42,083: INFO/MainProcess] Task create_task[16dedd3c-fd9c-46d3-8e7e-52e44d7253ce] received
+[2023-06-02 14:18:43,536: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:18:47,086: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:18:47,086: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:18:47,086: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:18:47,086: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:18:47,087: INFO/ForkPoolWorker-7] Task create_task[16dedd3c-fd9c-46d3-8e7e-52e44d7253ce] succeeded in 5.003260744999352s: True
+[2023-06-02 14:19:32,118: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:19:32,119: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:19:33,124: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:19:33,129: INFO/MainProcess] celery@72c5805863fe ready.
+[2023-06-02 14:19:37,208: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:20:06,039: INFO/MainProcess] Task create_task[0ef1992d-430b-4adc-88e4-5abf2c5f1f09] received
+[2023-06-02 14:20:11,042: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:20:11,042: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:20:11,042: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:20:11,043: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:20:11,043: INFO/ForkPoolWorker-7] Task create_task[0ef1992d-430b-4adc-88e4-5abf2c5f1f09] succeeded in 5.0030412420001085s: True
+[2023-06-02 14:21:51,097: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:21:51,099: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:21:52,104: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:21:52,109: INFO/MainProcess] celery@f108ec13f3ab ready.
+[2023-06-02 14:21:53,512: INFO/MainProcess] Task create_task[3fd80432-e0f3-49d6-8566-0838d3423787] received
+[2023-06-02 14:21:56,136: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:21:58,514: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:21:58,515: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:21:58,515: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:21:58,515: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:21:58,515: INFO/ForkPoolWorker-7] Task create_task[3fd80432-e0f3-49d6-8566-0838d3423787] succeeded in 5.002854332000425s: True
+[2023-06-02 14:23:11,870: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:23:11,871: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:23:12,877: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:23:12,882: INFO/MainProcess] celery@3971d6970403 ready.
+[2023-06-02 14:23:17,022: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:23:18,834: INFO/MainProcess] Task create_task[dec5e9fc-584e-4012-80ef-24a51a6654c4] received
+[2023-06-02 14:23:23,837: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:23:23,837: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:23:23,837: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:23:23,837: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:23:23,838: INFO/ForkPoolWorker-7] Task create_task[dec5e9fc-584e-4012-80ef-24a51a6654c4] succeeded in 5.003292438999779s: True
+[2023-06-02 14:24:56,548: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:24:56,549: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:24:57,554: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:24:57,559: INFO/MainProcess] celery@545a08863f7d ready.
+[2023-06-02 14:25:01,647: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:25:03,986: INFO/MainProcess] Task create_task[71d00259-13ea-42ba-a824-c2c60356cd40] received
+[2023-06-02 14:25:08,989: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:25:08,989: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:25:08,989: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:25:08,989: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:25:08,990: INFO/ForkPoolWorker-7] Task create_task[71d00259-13ea-42ba-a824-c2c60356cd40] succeeded in 5.002768393000224s: True
+[2023-06-02 14:25:45,030: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:25:45,031: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:25:46,035: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:25:46,040: INFO/MainProcess] celery@c6527157ed25 ready.
+[2023-06-02 14:25:48,181: INFO/MainProcess] Task create_task[06f7007d-ac0a-444b-8ec7-daedd2eed6ce] received
+[2023-06-02 14:25:50,165: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:25:53,184: WARNING/ForkPoolWorker-7] THIS SHOULD CHANGE:
+[2023-06-02 14:25:53,184: WARNING/ForkPoolWorker-7]  
+[2023-06-02 14:25:53,184: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:25:53,184: WARNING/ForkPoolWorker-7] {'current': 0, 'iteration': 4}
+[2023-06-02 14:25:53,185: INFO/ForkPoolWorker-7] Task create_task[06f7007d-ac0a-444b-8ec7-daedd2eed6ce] succeeded in 5.002880850999645s: True
+[2023-06-02 14:26:45,686: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:26:45,687: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:26:46,693: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:26:46,698: INFO/MainProcess] celery@aa83c66e2d73 ready.
+[2023-06-02 14:26:50,709: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:27:06,610: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:27:06,611: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:27:07,616: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:27:07,621: INFO/MainProcess] celery@bfed4d696d14 ready.
+[2023-06-02 14:27:11,682: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:37:23,451: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:37:23,452: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:37:24,456: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:37:24,462: INFO/MainProcess] celery@3e682d994ee4 ready.
+[2023-06-02 14:37:28,504: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:37:32,641: INFO/MainProcess] Task create_task[3a678d89-1f3d-41cd-a75b-8a23e2d7db27] received
+[2023-06-02 14:37:37,647: INFO/ForkPoolWorker-7] Task create_task[3a678d89-1f3d-41cd-a75b-8a23e2d7db27] succeeded in 5.005146227000296s: '111'
+[2023-06-02 14:38:07,738: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:38:07,740: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:38:08,745: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:38:08,750: INFO/MainProcess] celery@5f13a223130d ready.
+[2023-06-02 14:38:10,683: INFO/MainProcess] Task create_task[8edbe7ec-0ddc-4c09-9f86-90d23546162d] received
+[2023-06-02 14:38:12,847: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:38:15,689: INFO/ForkPoolWorker-7] Task create_task[8edbe7ec-0ddc-4c09-9f86-90d23546162d] succeeded in 5.005044067000199s: '111'
+[2023-06-02 14:39:12,073: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:39:12,074: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:39:13,078: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:39:13,083: INFO/MainProcess] celery@6640e2ef0067 ready.
+[2023-06-02 14:39:13,275: INFO/MainProcess] Task create_task[0a533a0d-9837-4f92-8ed9-70757afd759f] received
+[2023-06-02 14:39:17,205: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:39:18,281: INFO/ForkPoolWorker-7] Task create_task[0a533a0d-9837-4f92-8ed9-70757afd759f] succeeded in 5.004824130999623s: '111'
+[2023-06-02 14:39:27,081: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:39:27,082: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:39:28,087: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:39:28,092: INFO/MainProcess] celery@4d063d2323d3 ready.
+[2023-06-02 14:39:31,789: INFO/MainProcess] Task create_task[36b601a5-f6a0-49cf-8b42-b6c314f019b9] received
+[2023-06-02 14:39:32,115: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:39:36,795: INFO/ForkPoolWorker-7] Task create_task[36b601a5-f6a0-49cf-8b42-b6c314f019b9] succeeded in 5.004945984999722s: '111'
+[2023-06-02 14:41:38,343: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:41:38,345: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:41:39,349: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:41:39,354: INFO/MainProcess] celery@0a8672697f08 ready.
+[2023-06-02 14:41:40,311: INFO/MainProcess] Task create_task[d84b9a42-7588-4d62-b60a-0fed8a99cbe3] received
+[2023-06-02 14:41:43,460: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:41:45,317: INFO/ForkPoolWorker-7] Task create_task[d84b9a42-7588-4d62-b60a-0fed8a99cbe3] succeeded in 5.004565855999317s: '111'
+[2023-06-02 14:43:04,382: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:43:04,384: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:43:05,391: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:43:05,399: INFO/MainProcess] celery@f66157b4c932 ready.
+[2023-06-02 14:43:06,300: INFO/MainProcess] Task create_task[2a0277da-f466-473a-8ade-cf94f5006bd1] received
+[2023-06-02 14:43:09,401: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:43:11,306: INFO/ForkPoolWorker-7] Task create_task[2a0277da-f466-473a-8ade-cf94f5006bd1] succeeded in 5.004528191000645s: '111'
+[2023-06-02 14:43:47,737: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:43:47,740: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:43:48,744: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:43:48,749: INFO/MainProcess] celery@b2a06daee7d8 ready.
+[2023-06-02 14:43:51,555: INFO/MainProcess] Task create_task[4ef13e88-02c1-45e7-80a9-2443116df98b] received
+[2023-06-02 14:43:52,772: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:43:56,561: INFO/ForkPoolWorker-7] Task create_task[4ef13e88-02c1-45e7-80a9-2443116df98b] succeeded in 5.004451724000319s: '111'
+[2023-06-02 14:44:58,625: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:44:58,627: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:44:59,631: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:44:59,636: INFO/MainProcess] celery@13137f5d0e7f ready.
+[2023-06-02 14:45:03,659: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:45:03,833: INFO/MainProcess] Task create_task[e3a97cc9-3f7e-4da2-989d-36b57eb8fa7a] received
+[2023-06-02 14:45:08,839: INFO/ForkPoolWorker-7] Task create_task[e3a97cc9-3f7e-4da2-989d-36b57eb8fa7a] succeeded in 5.004904221001198s: '111'
+[2023-06-02 14:46:22,565: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:46:22,567: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:46:23,571: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:46:23,576: INFO/MainProcess] celery@33a44ed70ef3 ready.
+[2023-06-02 14:46:24,953: INFO/MainProcess] Task create_task[34eecc32-4e3d-4bdf-88c1-4d9df02e5ff8] received
+[2023-06-02 14:46:27,649: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:46:29,958: INFO/ForkPoolWorker-7] Task create_task[34eecc32-4e3d-4bdf-88c1-4d9df02e5ff8] succeeded in 5.004602367000189s: '111'
+[2023-06-02 14:46:56,710: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:46:56,712: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:46:57,716: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:46:57,722: INFO/MainProcess] celery@cd2ba67b0d01 ready.
+[2023-06-02 14:46:58,138: INFO/MainProcess] Task create_task[dd27c84b-3255-49bb-b9aa-2e94458cf4ae] received
+[2023-06-02 14:47:01,763: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:47:03,143: INFO/ForkPoolWorker-7] Task create_task[dd27c84b-3255-49bb-b9aa-2e94458cf4ae] succeeded in 5.0045730429992545s: '111'
+[2023-06-02 14:47:52,283: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:47:52,285: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:47:53,289: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:47:53,296: INFO/MainProcess] celery@a818381a3279 ready.
+[2023-06-02 14:47:53,977: INFO/MainProcess] Task create_task[7112a00b-7f7a-46fc-ae02-a8bf56a962b1] received
+[2023-06-02 14:47:57,350: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:47:58,983: INFO/ForkPoolWorker-7] Task create_task[7112a00b-7f7a-46fc-ae02-a8bf56a962b1] succeeded in 5.004659366000851s: '111'
+[2023-06-02 14:48:45,546: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:48:45,547: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:48:46,552: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:48:46,558: INFO/MainProcess] celery@b550568ea57e ready.
+[2023-06-02 14:48:48,790: INFO/MainProcess] Task create_task[23305dff-af35-4d8a-875b-9a7b35c25bd6] received
+[2023-06-02 14:48:50,626: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:48:53,795: INFO/ForkPoolWorker-7] Task create_task[23305dff-af35-4d8a-875b-9a7b35c25bd6] succeeded in 5.004754940000566s: '111'
+[2023-06-02 14:49:38,156: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:49:38,157: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:49:39,163: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:49:39,168: INFO/MainProcess] celery@02df30a7ec44 ready.
+[2023-06-02 14:49:43,062: INFO/MainProcess] Task create_task[c9ac0b7f-b8a7-4201-8467-4bed04736bee] received
+[2023-06-02 14:49:43,155: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:49:48,068: INFO/ForkPoolWorker-7] Task create_task[c9ac0b7f-b8a7-4201-8467-4bed04736bee] succeeded in 5.004678033001255s: '111'
+[2023-06-02 14:54:19,270: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:54:19,271: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:54:20,276: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:54:20,281: INFO/MainProcess] celery@d5d55eadec12 ready.
+[2023-06-02 14:54:24,169: INFO/MainProcess] Task create_task[3f598eab-e916-45f6-a3be-b241a7863538] received
+[2023-06-02 14:54:24,397: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:54:29,174: INFO/ForkPoolWorker-7] Task create_task[3f598eab-e916-45f6-a3be-b241a7863538] succeeded in 5.004475580999497s: 'result of long calculation'
+[2023-06-02 14:55:14,234: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:55:14,235: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:55:15,240: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:55:15,248: INFO/MainProcess] celery@d3b76e1c5022 ready.
+[2023-06-02 14:55:15,769: INFO/MainProcess] Task create_task[bb098e39-4dbd-4859-a0ec-b924386a4d52] received
+[2023-06-02 14:55:19,062: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:55:20,774: INFO/ForkPoolWorker-7] Task create_task[bb098e39-4dbd-4859-a0ec-b924386a4d52] succeeded in 5.004426431998581s: 'result of long calculation'
+[2023-06-02 14:55:54,243: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-02 14:55:54,244: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-02 14:55:55,249: INFO/MainProcess] mingle: all alone
+[2023-06-02 14:55:55,256: INFO/MainProcess] celery@28a5f48b2f37 ready.
+[2023-06-02 14:55:59,141: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-02 14:56:48,634: INFO/MainProcess] Task create_task[1e8e334c-97cd-4031-87a4-5b96923f0b14] received
+[2023-06-02 14:56:53,639: INFO/ForkPoolWorker-7] Task create_task[1e8e334c-97cd-4031-87a4-5b96923f0b14] succeeded in 5.004728365000119s: 'result of long calculation'
+[2023-06-02 14:57:07,483: INFO/MainProcess] Task create_task[4b7210cb-6e48-4710-9e43-488ae2f7a5f3] received
+[2023-06-02 14:57:12,487: INFO/ForkPoolWorker-7] Task create_task[4b7210cb-6e48-4710-9e43-488ae2f7a5f3] succeeded in 5.003159158999551s: 'result of long calculation'
